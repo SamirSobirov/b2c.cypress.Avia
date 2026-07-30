@@ -1,0 +1,11 @@
+t=1.5s article=20 cardCls=20 select=20 skeleton=0 spinner=1 more=0
+t=4.5s article=20 cardCls=20 select=20 skeleton=0 spinner=0 more=0
+t=7.5s article=20 cardCls=20 select=20 skeleton=0 spinner=0 more=0
+t=10.5s article=20 cardCls=20 select=20 skeleton=0 spinner=0 more=0
+t=13.5s article=20 cardCls=20 select=20 skeleton=0 spinner=0 more=0
+t=16.5s article=20 cardCls=20 select=20 skeleton=0 spinner=0 more=0
+t=19.5s article=20 cardCls=20 select=20 skeleton=0 spinner=0 more=0
+t=22.5s article=20 cardCls=20 select=20 skeleton=0 spinner=0 more=0
+t=25.5s article=20 cardCls=20 select=20 skeleton=0 spinner=0 more=0
+t=28.5s article=20 cardCls=20 select=20 skeleton=0 spinner=0 more=0
+t=31.5s article=20 cardCls=20 select=20 skeleton=0 spinner=0 more=0

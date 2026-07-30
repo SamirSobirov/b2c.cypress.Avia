@@ -1,0 +1,5 @@
+POST 200 347ms https://api.metatrip.asia/api/v1/search/flights
+GET 200 76ms https://metatrip.asia/data/countries-110m.json
+GET 200 125ms https://api.metatrip.asia/api/v1/search/flights/019fb2de-95a5-7140-9693-64c5081822f1/poll?count=100&cursor=
+GET 200 15ms https://metatrip.asia/_nuxt/builds/meta/5ba62982-1276-4b4b-95cd-5262fa5140e0.json
+GET 200 49ms https://api.metatrip.asia/api/v1/search/flights/019fb2de-95a5-7140-9693-64c5081822f1/poll?count=100&cursor=1785412359667-0

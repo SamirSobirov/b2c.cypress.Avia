@@ -2,7 +2,7 @@ name: B2C Avia Search AutoTest
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */1 * * *'
   workflow_dispatch:
     inputs:
       user_chat_id:
